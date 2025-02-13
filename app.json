@@ -36,7 +36,7 @@
         "value": "-1002466238730",
         "required": false
       },
-            "FORCE_SUB_CHANNEL2": {
+      "FORCE_SUB_CHANNEL2": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
         "value": "-1002342554864",
         "required": false
