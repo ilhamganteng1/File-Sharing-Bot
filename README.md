@@ -33,21 +33,10 @@
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
-
-### DEPLOYEMENT SUPPORT
-
-<summary>Deploy To Koyeb</summary>
-<p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/File-Sharing-Bot&branch=main&name=file-sharing-bot" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/File-Sharing-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/ilhamganteng1/File-Sharing-Bot/tree/6-subs">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
