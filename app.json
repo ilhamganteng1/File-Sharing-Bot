@@ -23,7 +23,7 @@
       },
       "OWNER_ID": {
         "description":"Add Your User ID here",
-        "value": "6483848643",
+        "value": "5839381774",
         "required": true
       },
       "CHANNEL_ID": {
@@ -73,7 +73,7 @@
       },
       "ADMINS": {
         "description": "A space separated list of user_ids of Admins, they can only create links",
-        "value": "5196236230 6483848643",
+        "value": "5196236230",
         "required": false
       },
       "PROTECT_CONTENT": {
