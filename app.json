@@ -28,27 +28,27 @@
       },
       "CHANNEL_ID": {
           "description":"Make a channel (database channel), then make the bot as admin in channel, and it's id",
-          "value": "-1002167655905",
+          "value": "-1002298018816",
           "required": true          
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1002466238730",
+        "value": "-1002477743076",
         "required": false
       },
       "FORCE_SUB_CHANNEL2": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1002342554864",
+        "value": "-1002448932643",
         "required": false
       },
       "FORCE_SUB_CHANNEL3": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1002277738558",
+        "value": "-1002496261674",
         "required": false
       },
       "FORCE_SUB_CHANNEL4": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1002448808773",
+        "value": "-1002270682191",
         "required": false
       },
       "DB_URL": {
